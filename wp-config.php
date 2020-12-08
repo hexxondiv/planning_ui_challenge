@@ -55,6 +55,13 @@ define( 'SECURE_AUTH_SALT', 'QJ1Pz&b]CX,5&3M52BeVi]2^sHK8$`0^A|#L^O,s;RYa&503P9q
 define( 'LOGGED_IN_SALT',   'PlOd#C-3WtpMho$=@wf!zswGAI%g/_|={ @+wjmduz*_,2TdCfp147~MAqc1;D~G' );
 define( 'NONCE_SALT',       'DVKP!e]|VT7M:[-T[cp_T<=b0SHoi(Fdj9$mB%-h/eru66m!:G$9czsTjw{|D:6a' );
 
+/** Add here*/
+define('FS_METHOD','direct');
+define("FTP_HOST", "localhost");
+define("FTP_USER", “hexxondiv”);
+define("FTP_PASS", “DeJa1Vu007”);
+/** To here*/
+
 /**#@-*/
 
 /**
